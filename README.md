@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/n680da29gtjk7ksk?svg=true)](https://ci.appveyor.com/project/Anfisa5/api)
+[![Build status](https://ci.appveyor.com/api/projects/status/n680da29gtjk7ksk/branch/master?svg=true)](https://ci.appveyor.com/project/Anfisa5/api/branch/master)
